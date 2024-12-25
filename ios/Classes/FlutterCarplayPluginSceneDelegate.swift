@@ -6,6 +6,7 @@
 //
 
 import CarPlay
+import Logger
 
 @available(iOS 14.0, *)
 class FlutterCarPlaySceneDelegate: UIResponder, CPTemplateApplicationSceneDelegate {
